@@ -1,11 +1,11 @@
 ---
 layout: page
-title: I'm Heonil Kim,
+title: I am HEONIL
 ---
 
 
-##Java Web Programmer <br>
-##백엔드, 자바 프로그래머를 꿈꾸고 있습니다.
+## Java Web Programmer <br>
+## 백엔드, 자바 프로그래머를 꿈꾸고 있습니다.
 <br>
 <br>
 ### 안녕하세요!
