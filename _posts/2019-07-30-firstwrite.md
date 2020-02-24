@@ -13,7 +13,7 @@ tags: 인사 자기소개
 <p></p>
 
 ### 안녕하세요!
-<img src="https://data.silhouette-ac.com/data/thumbnails/b1/b11b05b7744c7335e752366d1dcd71c8_t.jpeg">
+<img src="https://data.silhouette-ac.com/data/thumbnails/b1/b11b05b7744c7335e752366d1dcd71c8_t.jpeg"><br>
 지금 방문해주신 블로그는 Jekyll의 무료 테마를 응용하여 만들어졌습니다.<br>
 취업준비도 하고 :) 여러가지 정보수집과 실험 등 깃허브 블로그를 만들었습니다.<br>
 잘 부탁드립니다!
