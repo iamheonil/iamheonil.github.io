@@ -3,8 +3,7 @@ layout: post
 comments : true
 title: '진행 한 프로젝트(Programming)'
 date: 2019-08-02
-author: KIM Heonil
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+author: Kim Heonil
 tags: Programming_프로젝트
 ---
 <p></p>

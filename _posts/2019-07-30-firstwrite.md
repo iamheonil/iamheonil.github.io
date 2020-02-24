@@ -3,8 +3,7 @@ layout: post
 comments : true
 title: '블로그에 오신 걸 환영합니다.'
 date: 2019-07-30
-author: KIM Heonil
-cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+author: Kim Heonil
 tags: 인사 자기소개
 ---
 
