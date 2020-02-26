@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Heonil Kim
+title: Welcome !
 ---
 
 ## I'm HEONIL
