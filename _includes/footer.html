@@ -1,6 +1,7 @@
 <footer class="c-footer">
   <div class="u-container c-footer__container">
-    <legend><p>&copy; KIM HEONIL {{ site.time | date: '%Y' }}</p></legend><br>
+    <strong><p>&copy; KIM HEONIL {{ site.time | date: '%Y' }}<br>
+        <p>iamheonil@gmail.com</p></p></strong>
     <p>
       {% if site.twitterUsername %}<a href="https://twitter.com/{{ site.twitterUsername }}"target='_blank'>Twitter</a>{% endif %}
       {% if site.githubUsername %}<a href="https://github.com/{{ site.githubUsername }}"target='_blank'>Github</a>{% endif %}
@@ -8,5 +9,7 @@
       {% if site.codepenUsername %}<a href="http://codepen.io/{{ site.codepenUsername }}"target='_blank'>CodePen</a>{% endif %}
       {% if site.instagramUsername %}<a href="https://instagram.com/{{ site.instagramUsername }}"target='_blank'>Instagram</a>{% endif %}
     </p>
+    <br>
+    
   </div>
 </footer>
