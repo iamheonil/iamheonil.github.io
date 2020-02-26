@@ -6,8 +6,10 @@ permalink: /about/
 
 <img src="https://github.com/iamheonil/iamheonil.github.io/blob/master/image/keyboard.jpeg?raw=true" width = "100%" height="350px" alt="Keyboard"> <br>
 
+<br><br>
 
-### Heonil Kim**<br>김헌일<br>
+
+### **Heonil Kim**<br>김헌일 <br>
 
 <br>
 
