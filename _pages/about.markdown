@@ -9,7 +9,7 @@ permalink: /about/
 <br><br>
 
 
-### **Heonil Kim**<br>김헌일 <br>
+### **Heonil Kim** <br>김헌일 <br>
 
 <br>
 
