@@ -4,7 +4,7 @@ title: Heonil Kim
 permalink: /about/
 ---
 
-<img src="https://github.com/iamheonil/iamheonil.github.io/blob/master/image/keyboard.jpeg"> <br>
+<img src="https://github.com/iamheonil/iamheonil.github.io/blob/master/image/keyboard.jpeg?raw=true"> <br>
 
 
 ## Heonil Kim
