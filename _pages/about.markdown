@@ -3,6 +3,18 @@ layout: page
 title: Heonil Kim
 permalink: /about/
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="https://github.com/iamheonil/iamheonil.github.io/blob/master/image/keyboard.jpeg"> <br>
+
+
+### Heonil Kim<br>
+#### 김헌일 <br>
+
+<br>
+
+##### 대학 졸업 후 UI/UX 엔지니어링 개발자과정을 이수중이고, 백엔드와 스프링 프레임워크에 관심이 많습니다. <br>
+
+
+
+
+
