@@ -4,6 +4,18 @@
 
 // Font families
 @mixin ff--sans-serif($font-weight: normal) {
+  font-family: 'Nanum Gothic', serif;
+  font-weight: $font-weight;
+}
+
+@mixin ff--mono($font-weight: normal) {
+  font-family: 'Nanum Gothic', serif;
+  font-weight: $font-weight;
+}
+
+
+/*
+@mixin ff--sans-serif($font-weight: normal) {
   font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
   font-weight: $font-weight;
 }
@@ -12,6 +24,8 @@
   font-family: 'Roboto Mono', monospace;
   font-weight: $font-weight;
 }
+*/
+
 
 // Font sizing
 @mixin fs--title {
