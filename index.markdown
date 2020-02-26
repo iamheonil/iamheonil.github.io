@@ -20,4 +20,4 @@ title: Heonil Kim
 
 ------
 
-#### [포트폴리오 보러가기 >](https://iamheonil.github.io)
+#### [포트폴리오 보러가기 >](https://iamheonil.github.io/project/)
