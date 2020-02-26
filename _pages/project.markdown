@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Heonil Kim
+title: Project
 permalink: /project/
 ---
 
