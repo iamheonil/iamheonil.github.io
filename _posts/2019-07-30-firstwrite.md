@@ -1,7 +1,7 @@
 ---
 layout: post
 comments : true
-title: '블로그에 오신 걸 환영합니다.'
+title: 'Welcome to my Blog'
 date: 2019-07-30
 author: Kim Heonil
 tags: 인사 자기소개
