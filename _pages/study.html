@@ -5,7 +5,7 @@ permalink: /study/
 ---
 {{ page.path }}
 
-{% for post in {% post_url /_studys/ %} %}
+{% for post in site.post %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
