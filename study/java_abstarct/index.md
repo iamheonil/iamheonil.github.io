@@ -68,7 +68,7 @@ abstract class Parent {
 <br>
 해결방법 <br>
 
-1.  <br>
+1 <br>
 
 ```java
 class Child extends Parent {
@@ -85,7 +85,7 @@ public void out() {
 <br>
 해결방법 <br>
 
-2.  <br>
+2 <br>
 
 ```java
 abstract class Children extends Parent {
