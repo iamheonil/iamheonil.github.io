@@ -7,4 +7,12 @@ main: true
 
 ---
 
-{% assign sorted = site.pages | sort: 'order' | reverse %} {% for page in sorted %} {% if page.blog == true %} {% include post-list.html %} {% endif %} {% endfor %}
+{% assign sorted = site.pages | sort: 'order' | reverse %} 
+
+{% for page in sorted %} 
+
+{% if page.study == true %} 
+
+{% include post-list.html %} 
+
+{% endif %} {% endfor %}
