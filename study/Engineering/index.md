@@ -6,6 +6,7 @@ title: 'Start Java'
 subtitle: 'UI/UX Engineering 과정을 이수하며'
 study: true
 text: true
+type: 'Java'
 author: 'Kim Heonil'
 tags: Java
 order: 1
