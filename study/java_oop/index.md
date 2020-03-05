@@ -2,8 +2,7 @@
 
 layout: post
 comments : true
-title: 'Start Java'
-subtitle: 'UI/UX Engineering 과정을 이수하며'
+title: '객체지향이란?'
 study: true
 text: true
 author: 'Kim Heonil'

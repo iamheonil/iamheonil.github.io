@@ -2,7 +2,7 @@
 
 layout: post
 comments : true
-title: 'Start Java'
+title: '자바의 기초'
 subtitle: 'UI/UX Engineering 과정을 이수하며'
 study: true
 text: true
