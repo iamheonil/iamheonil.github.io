@@ -1,8 +1,9 @@
 ---
 
-layout: page
+layout: default
 title: Study
-description: UI/UX Engineering 과정을 이수하며
+description: 자바 공부를 하면서
+main: true
 
 ---
 <p> Hi </p>
