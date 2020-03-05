@@ -1,10 +1,15 @@
 ---
+
 layout: post
 comments : true
 title: 'Start Java'
-date: 2020-02-18
+subtitle: "UI/UX Engineering 과정을 이수하며"
+blog: true
+text: true
 author: Kim Heonil
 tags: Java
+order: 9
+
 ---
 
 > 깜빡할 때마다 읽어보려고 만들었습니다. <br>
