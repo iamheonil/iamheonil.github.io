@@ -56,9 +56,8 @@ StringBuffer와 StringBulider의 차이점
 - StringBuffer는 스레드들이 내부 문자열 저장소를 순서대로 접근하게 만들어짐
 - StringBuilder는 스레드들이 내부 문자열 저장소에 동시에 접근할 수 있음.
 - 둘 중 뭐가 더 좋다고 말할 수는 없고 상황에 맞춰 적절하게 사용해야한다. *
-- StringBuffer 는 동시 작업이 안된다, 빠르지가 않다는 말.	 ] 		둘 다 + String 까지
-- StringBuilder 는 비동기작업이라 빠르다.					 ] 		아무거나 상관 없다
-												        ]		스레드 들어가기 전까지는
+- StringBuffer 는 동시 작업이 안된다, 빠르지가 않다는 말.	 
+- StringBuilder 는 비동기작업이라 빠르다.					 
 
 <br>
 <br>
