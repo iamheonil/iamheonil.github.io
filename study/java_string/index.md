@@ -34,6 +34,7 @@ String 은 상수이기 때문에 새로운 문자열을 대입하면 기존의 
 문자열의 값의 변경이 자주 발생할 경우 메모리 효율, 성능효율이 전부 떨어진다. <br>
 <br>
 <br>
+
 문자열의 수정, 삭제가 자주 발생할 경우 StringBuffer, StringBuilder를 사용하는 것이 좋다. <br>
 - 객체 내부에 문자열 저장공간을 따로 만들어서 관리한다.
 - 문자열 저장공간을 관리하면서 문자열을 다룬다 (크기 확장, 축소 가능)
@@ -44,6 +45,7 @@ String 은 상수이기 때문에 새로운 문자열을 대입하면 기존의 
 - length() 만큼 Capacity가 확장된다.
 <br>
 <br>
+
 StringBuffer와 StringBulider의 차이점
 - StringBuffer 는 모든 메소드가 동기화 처리되어 있다.(Thread-Safe, 스레드에 쓰기 안전)
 - StringBuilder 는 비동기화 되어 있다.
@@ -52,6 +54,7 @@ StringBuffer와 StringBulider의 차이점
 - Multi Thread : 한번에 프로그램 코드를 동시에 여러개 실행 시킬 수 있는 프로그램
 <br>
 <br>
+
 멀티스레드 환경에서
 - StringBuffer는 스레드들이 내부 문자열 저장소를 순서대로 접근하게 만들어짐
 - StringBuilder는 스레드들이 내부 문자열 저장소에 동시에 접근할 수 있음.

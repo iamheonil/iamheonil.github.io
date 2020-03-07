@@ -19,6 +19,7 @@ order: 17
 - ** 기본 데이터타입의 데이터를 객체화하여 사용할 수 있게 해주는 클래스들 **
 <br>
 <br>
+
 기본형 타입 데이터를 참조형 변수로 사용할 수 있게 된다.
 - Boolean
 - Character
@@ -26,12 +27,14 @@ order: 17
 - Float, Double
 <br>
 <br>
+
 언박싱, Unboxing
 - Wrapper 클래스 -> 기본 데이터타입 변환
 - Wrapper 클래스의 메소드를 이용한다.
 - int i2 = iVal2.intValue();  Integer 에서 int 타입으로 변환해주는 코드
 <br>
 <br>
+
 오토 박싱, 오토 언박싱
 - 박싱, 언박싱이 자동으로 이루어지는 현상
 - 기본 데이터타입과 참조형(Wrapper)를 따로 구분하지 않고 사용할 수 있다.
@@ -43,6 +46,7 @@ order: 17
 ```
 <br>
 <br>
+
 파싱
 - 문자열에서 데이터를 추출하는 기능
 - Wrapper 클래스의 정적메소드로 구현된 parseXXX() 메소드를 이용한다.
