@@ -4,10 +4,9 @@ title: Welcome !
 ---
 
 ## I'm Heonil Kim,
+### I hope Programmer! <br>
 
-## I hope Programmer! <br>
-
-### 백엔드, 자바 프로그래머를 꿈꾸고 있습니다.
+### 메인 초본
 
 <br>
 <br>
