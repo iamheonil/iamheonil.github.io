@@ -2,7 +2,7 @@
 
 layout: post
 comments : true
-title: '컬렉션 프레임워크'
+title: '자바의 Generic'
 study: true
 text: true
 author: 'Kim Heonil'
