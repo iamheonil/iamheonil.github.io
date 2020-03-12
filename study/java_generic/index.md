@@ -394,13 +394,13 @@ public class Generic_Extends {
 
 
 
-<T extends Number>
-  * Byte
-  * Short
-  * Long
-  * Integer
-  * Float
-  * Double
+* <T extends Number>
+    * Byte
+    * Short
+    * Long
+    * Integer
+    * Float
+    * Double
 * String, Person, Point 등 Number 와 상속관계가 아닌 타입은 입력자체가 불가능
 
 
