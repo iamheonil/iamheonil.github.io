@@ -356,11 +356,11 @@ public class Generic_ClassMember {
 }
 ```
 
-
+<br>
 
 > Generic Extends
 
-
+<br>
 
 ```java
 public class Generic_Extends {
@@ -403,11 +403,13 @@ public class Generic_Extends {
   * Double
 * String, Person, Point 등 Number 와 상속관계가 아닌 타입은 입력자체가 불가능
 
+
 <br>
 
 > Generic Inherit
 
 <br>
+
 
 ``` java
 // 제네릭 클래스 구현
@@ -450,11 +452,13 @@ public class Generic_Inherit {
 }
 ```
 
+
 <br>
 
 > Generic Interface Inherit
 
 <br>
+
 
 ```java
 interface Inter1<T1> {
@@ -506,11 +510,13 @@ public class Generic_Interface {
   - 자식 클래스에서 지정한 타입파라미터로 사용한다.
 
 
+
 <br>
 
 > 와일드 카드, Wild Card (<?>)
 
 <br>
+
 
 
 ``` java
