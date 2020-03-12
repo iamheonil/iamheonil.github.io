@@ -55,6 +55,8 @@ order: 23
 
 
 
+
+
 Throwable 클래스의 계층구조
 
 ```java
@@ -78,8 +80,6 @@ Throwable --------------- |
 - Error
 
   - 복구 불가능한 심각한 에러
-
-    
 
 - Checked Exception
 
