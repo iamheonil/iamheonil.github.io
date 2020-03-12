@@ -2,7 +2,7 @@
 
 layout: post
 comments : true
-title: '자바의 Generic'
+title: '자바 예외의 기본'
 study: true
 text: true
 author: 'Kim Heonil'
