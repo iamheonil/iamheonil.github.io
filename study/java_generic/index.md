@@ -512,7 +512,9 @@ public class Generic_Interface {
 
 <br>
 
+
 ``` java
+
 public class Generic_WildCard {
 		
 	public static void display(List<?> list) {
@@ -549,6 +551,7 @@ public class Generic_WildCard {
 		
 	}
 }
+
 ```
 
 <br>
