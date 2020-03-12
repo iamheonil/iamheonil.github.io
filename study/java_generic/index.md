@@ -78,10 +78,9 @@ List<Integer> iList = new ArrayList<>();
 
 
 타입 안정성
-
 * 개발자가 의도한 데이터타입으로만 사용되는 것
 
-
+<br>
 
 > 제네릭, Generic
 
@@ -104,6 +103,7 @@ List<Integer> iList = new ArrayList<>();
 * N - Number
 
 
+<br>
 
 > Generic Class
 
@@ -177,7 +177,7 @@ public class Generic_Class {
 List<String> list = new ArrayList<>();
 ```
 
-
+<br>
 
 > Generic Method
 
@@ -247,9 +247,11 @@ public class Generic_Method {
 ```
 
 
+<br>
 
 > Multi Generic
 
+<br>
 
 
 ```java
@@ -311,11 +313,11 @@ public class Generic_Multi {
 
 ```
 
-
+<br>
 
 > Generic Class Member
 
-
+<br>
 
 ```java
 class Data<K> {
@@ -392,7 +394,7 @@ public class Generic_Extends {
 
 
 
-* <T extends Number>
+<T extends Number>
   * Byte
   * Short
   * Long
@@ -401,11 +403,11 @@ public class Generic_Extends {
   * Double
 * String, Person, Point 등 Number 와 상속관계가 아닌 타입은 입력자체가 불가능
 
-
+<br>
 
 > Generic Inherit
 
-
+<br>
 
 ``` java
 // 제네릭 클래스 구현
@@ -448,11 +450,11 @@ public class Generic_Inherit {
 }
 ```
 
-
+<br>
 
 > Generic Interface Inherit
 
-
+<br>
 
 ```java
 interface Inter1<T1> {
@@ -504,12 +506,11 @@ public class Generic_Interface {
   - 자식 클래스에서 지정한 타입파라미터로 사용한다.
 
 
-
-
+<br>
 
 > 와일드 카드, Wild Card (<?>)
 
-
+<br>
 
 ``` java
 public class Generic_WildCard {
@@ -550,6 +551,7 @@ public class Generic_WildCard {
 }
 ```
 
+<br>
 
 
 - 타입 파라미터에서 어떤 타입으로든 사용가능하도록 지정되는 제네릭
