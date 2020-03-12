@@ -11,235 +11,7 @@ order: 23
 
 ---
 
-> 일반화 프로그래밍, 제네릭
->
-> 자바에서는 일반화 프로그래밍 이라는 용어는 많이 사용하지 않고 제네릭이라고 한다. 
->
-> 일반화 프로그래밍은 C언어 쪽에 더 가깝다.
-
-
-
-* 일반화 프로그래밍
-
-  * 자료형을 일반화시켜 프로그래밍 하는 것
-    * int
-    * double
-    * float
-    * boolean
-    * String(참조형 포함)
-    * Point
-    * Person
-    * .. 등등
-  * 위의 자료형들의 특성을 무시하고 데이터타입의 이름을 정해 일반화하고 개발하는 것
-
-  
-
-
-
-자바에서는 제네릭을 이용하여 구현한다.
-
-```java
-// ex)
-
-public void out (String var) { }
-public void out (Integer var) { }
-public void out (Boolean var) { }
-
-// 세개를 오버라이딩하는데 내용이 매우 흡사하다.
-// 이럴 때 제네릭을 사용한다.
-// 중복코드를 줄여주고 재사용성이 커진다.
-
-public <T> void out (T var) { }
-```
-
-
-
-```java
-// 타입을 지정하지 않고 구현한다면 Object로 사용된다.
-		List list = new ArrayList();
-		
-		// 부모인 List<String> 과 자식인 ArrayList 의 자료형이 다르다면 에러가 발생한다.
-		// 무조건 같게 써줘야 한다
-		List<String> sList = new ArrayList<String>();
-		// 혹은
-		List<String> sList = new ArrayList<>();
-		
-		sList.add("HELLO");
-```
-
-
-
-```java
-List<Integer> iList = new ArrayList<>();
-		// List<Int> iList = new ArrayList<>(); 는 사용 불가
-		// Wrapper 클래스를 사용해야 한다.
-```
-
-
-
-타입 안정성
-* 개발자가 의도한 데이터타입으로만 사용되는 것
-
-<br>
-
-> 제네릭, Generic
-
-
-
-- 클래스 또는 메소드에서 사용되는 다양한 데이터타입을 일반화 시켜서 정의하는 방법.
-- 코드의 재 사용성이 높아진다.
-  - 타입 안정성이 제공된다. Type-Safety
-  - 객체 또는 메소드가 의도하지 않은 타입으로 사용되는 상황을 방지하는 것.
-  - 개발자가 의도한 데이터타입만 사용하도록 제한하는 것
-- 클래스와 메소드에 적용할 수 있다.
-- 불필요한 형변환을 줄일 수 있다.
-
-자주 사용되는 제네릭 타입 파라미터 이름
-
-* T - Type
-* E - Element
-* K - Key
-* V - Value
-* N - Number
-
-
-<br>
-
-> Generic Class
-
-[접근제한자] [클래스식별자] class 클래스명<TYPE1, TYPE2, ... >
-
-타입 갯수에 제한은 없지만 대부분 한개, 두개이다.
-
-제네릭 클래스를 이용하여 객체 생성을 할 때 타입 파라미터를 결정해주는 것이 좋다.
-
-타입파라미터를 결정하지 않으면 Object로 처리된다.
-
-
-
-```java
-// 제네릭을 적용한 class
-class Class02<T> {
-	
-	private T data;
-	
-	public T display(T data) {
-		setData(data);
-		
-		return data;
-
-	}
-
-	
-	public T getData() {
-		return data;
-	}
-
-	public void setData(T data) {
-		this.data = data;
-		
-	}
-}
-
-public class Generic_Class {
-	public static void main(String[] args) {
-
-		// T 라고 써 놓은 자료형을 여기서 String 으로 쓰겠다 라고 작성했다.
-		Class02<String> c02 = new Class02<>();
-		
-		c02.setData("Grape");
-		String fruit = c02.getData();
-		
-		System.out.println(fruit);
-        
-		
-		// T 라고 써 놓은 자료형을 여기서 Integer 로 쓰겠다 라고 작성했다.
-		Class02<Integer> c03 = new Class02<>();
-		
-		c03.setData(100);
-		int Number = c03.getData();
-		
-		System.out.println(Number);
-				
-		
-		
-	}
-}
-```
-
-
-
-제네릭 클래스의 변수를 선언할 때 타입파라미터를 명시하고
-
-객체를 생성하는 코드에서는 <> 만 적어도 된다. (JDK 1.7v 이후 지원)
-
-```java
-List<String> list = new ArrayList<>();
-```
-
-<br>
-
-> Generic Method
-
-
-
-[접근제한자] <TYPE1, TYPE2,...> [리턴타입] 메소드명(매개변수) {
-
-}
-
-* 메소드 내에서 사용되는 데이터타입을 일반화시켜 정의한다
-* 매개변수, 반환타입, 지역변수
-* 제네릭 메소드를 호출하면서 타입파라미터를 결정해준다.
-  * obj.<타입파라미터>메소드명(인자);
-  * obj.메소드명(인자) -> 매개변수가 타입파라미터를 사용하고 있어야 가능
-
-
-
-
-
-```java
-// 일반 클래스
-class Class03 {
-	
-	// 일반 메소드
-	public void display(int n) { 
-		// 형태만 보기 위해 코드 구현은 하지 않았다.
-	}
-	
-	// 제네릭 메소드
-	public <T> T print(T t) {
-		// 반환데이터, 매개변수, 지역변수, 형변환 어디든 사용 가능하다.
-		// 자료형 어디든 사용 가능하다.
-		// 제네릭은 Object 의 아래에 있다.
-		
-		// T data = 123;
-		
-		// 참조형으로 취급되어 null 값을 넣어놓는다.
-		T data = null; 
-		
-		return data;
-	}
-	
-}
-
-// 제네릭 클래스
-class Class02_1 <T> {
-	
-	// 제네릭 메소드
-	public <K> void display(K obj, T data) {
-		// 이렇게 사용하는 경우가 거의 없어서 문법만 알고 있어도 된다.
-	}
-}
-
-public class Generic_Method {
-	public static void main(String[] args) {
-		
-		Class03 c03 = new Class03();
-		
-		// 타입 파라미터를 지정하지 않았는데 메소드는 이렇게 사용해도 괜찮다.
-		// 자동으로 결정되었는데 제대로 결정 되었다.
-		
-		c03.print(123);> 프로그램 개발 오류, Error
+> 프로그램 개발 오류, Error
 
 <br>
 
@@ -289,13 +61,13 @@ Throwable 클래스의 계층구조
 Object
    |
    |
-Throwable --------------|
+Throwable --------------- |
    |					|
    |					|
  Error				Exception
 (Critical Error)		 | --------------- |
     			여러 Exception		Runtime Exception
-		   		(Checked Exception)			|
+		   		(Checked Exception)			 |
    									   	    |
 	    								여러 Exception
     									(UnChecked Exception)
@@ -440,6 +212,7 @@ public class Exception01_Basic {
   3. 에러 메세지
 
      - 5번
+
 
 
 <br><br>
