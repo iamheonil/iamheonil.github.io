@@ -3,7 +3,7 @@
 layout: post
 comments : true
 title: '멀티스레드'
-subtitle: 'Multi - Thread
+subtitle: 'Multi - Thread'
 study: true
 text: true
 author: 'Kim Heonil'
