@@ -17,11 +17,9 @@
 title: Blog
 email: iamheonil@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/iamheonil" # the base hostname & protocol for your site
+  자바 스프링 프레임워크 공부해서 백엔드 개발자가 되고 싶은 니리니리 블로그
+baseurl: "https://iamheonil.github.io/" # the subpath of your site, e.g. /blog
+url: "https://iamheonil.github.io/" # the base hostname & protocol for your site
 
 # Social
 githubUsername: iamheonil

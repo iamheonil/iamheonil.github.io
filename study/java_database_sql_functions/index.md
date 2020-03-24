@@ -150,7 +150,7 @@ WHERE PARAMETER = 'NLS_CHARACTERSET';
 <br>
 <br>
 
-``` SQL
+``` sql
 
 -- SQL 숫자 함수 퀴즈
 
