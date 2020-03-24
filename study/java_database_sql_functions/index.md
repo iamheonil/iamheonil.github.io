@@ -114,7 +114,6 @@ SELECT SUBSTR ('안녕하세요오라클', 3) FROM DUAL;
 <br>
 
 
-
 ``` sql
 SELECT LENGTH('Apple 안녕') LENGTH, 
 length2('Apple 안녕') LENGTH2, length4('Apple 안녕') LENGTH4, 
@@ -128,8 +127,6 @@ SELECT * FROM nls_database_parameters
 WHERE PARAMETER = 'NLS_CHARACTERSET'; 
 
 ```
-
-
 
 <br>
 
@@ -147,7 +144,6 @@ WHERE PARAMETER = 'NLS_CHARACTERSET';
 - SQRT - n1의 제곱근을 구한다.
 
 ###### 추후 수강한다면 별도의 포스트로 추가 예정
-<br>
 <br>
 
 ``` sql
