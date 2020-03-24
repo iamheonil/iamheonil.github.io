@@ -146,15 +146,12 @@ WHERE PARAMETER = 'NLS_CHARACTERSET';
 - POWER - n1의 n2 제곱을 구한다.
 - SQRT - n1의 제곱근을 구한다.
 
-
-<br>
-
 ###### 추후 수강한다면 별도의 포스트로 추가 예정
-
 <br>
 <br>
 
 ``` SQL
+
 -- SQL 숫자 함수 퀴즈
 
 -- 12.523 -> 소수점이하 반올림
