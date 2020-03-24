@@ -1,6 +1,3 @@
-<html>
-<meta name="google-site-verification" content="KbBmuJSk3xlzMvVN3KGfTa4RKFapRhO5_07n07uteo0" />
-</html>
 ---
 layout: page
 title: Welcome !
