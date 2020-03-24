@@ -49,7 +49,6 @@ order: 44
     - 오른쪽 정렬을 한 것 같은 느낌을 줄 수 있다.
   - RIGHT PADDING - rpad()
 - TRIM - 데이터의 양 끝단에 있는 공백을 제거한다.
-- 
 
 
 
@@ -147,9 +146,10 @@ WHERE PARAMETER = 'NLS_CHARACTERSET';
 - POWER - n1의 n2 제곱을 구한다.
 - SQRT - n1의 제곱근을 구한다.
 
-###### 추후 수강한다면 별도의 포스트로 추가 예정
 
 <br>
+
+###### 추후 수강한다면 별도의 포스트로 추가 예정
 
 <br>
 <br>
