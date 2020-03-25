@@ -12,7 +12,7 @@ permalink: /about/
 
 ### 저에 대해 소개합니다.
 
-<h1>'Infinity Challenger'</h1>
+<h1>'Infinite Challenger'</h1>
 <p>끊임없이 도전합니다.</p>
 
 새로운 것에 대한 호기심이 엄청나며, 진취적인 자세로 배우는 것에 대한 두려움, 망설임이 전혀 없습니다! 모든 일에 성실히 임하기 위해 노력하고 있습니다. <br>
