@@ -2,8 +2,8 @@
 
 layout: post
 comments : true
-title: 'Oracle to_number'
-subtitle: '오라클 형변환 to_number()'
+title: 'Oracle to_number & 단일 행 함수들'
+subtitle: '오라클 형변환 to_number()과 기타 단일 행 함수들'
 study: true
 text: true
 author: 'Kim Heonil'
@@ -111,8 +111,8 @@ FROM DUAL;
 
     - NULLIF(첫번째 값, 두번째 값)
 
-    - ```sql
-      SELECT
+    - 
+      ```sql
           NULLIF(10, 20) "1",	-- 10 반환
           NULLIF(20, 10) "2",	-- 20 반환
           NULLIF(10, 10) "3"	-- (null) 반환
