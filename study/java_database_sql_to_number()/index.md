@@ -111,14 +111,14 @@ FROM DUAL;
 
     - NULLIF(첫번째 값, 두번째 값)
 
-    - 
-      ```sql
+    - ```sql
+      SELECT
           NULLIF(10, 20) "1",	-- 10 반환
           NULLIF(20, 10) "2",	-- 20 반환
           NULLIF(10, 10) "3"	-- (null) 반환
       FROM DUAL;
       
-      -----------------
+      --
       
       
       SELECT EMPNO, ENAME, JOB,
