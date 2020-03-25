@@ -4,7 +4,7 @@ title: Heonil Kim
 permalink: /about/
 ---
 
-#### 김헌일 <br>
+#### 김헌일 🙎‍♂️ <br>
 
 소프트웨어공학을 전공하였으며, 현재 UI/UX 엔지니어링/Java Spring Framework 개발자 과정을 이수 중입니다. 자바의 기초부터 DBMS(Oracle), 웹 프론트엔드 등 전반적인 웹 개발의 모든 것들을 배우고 있습니다. (2020/01/28 ~ 2020/09/22)
 
