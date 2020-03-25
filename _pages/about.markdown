@@ -4,7 +4,7 @@ title: Heonil Kim
 permalink: /about/
 ---
 
-#### 김헌일 🙎‍♂️ <br>
+#### 김헌일 🧑‍💻 <br>
 
 소프트웨어공학을 전공하였으며, 현재 UI/UX 엔지니어링/Java Spring Framework 개발자 과정을 이수 중입니다. 자바의 기초부터 DBMS(Oracle), 웹 프론트엔드 등 전반적인 웹 개발의 모든 것들을 배우고 있습니다. (2020/01/28 ~ 2020/09/22)
 
@@ -12,12 +12,12 @@ permalink: /about/
 
 ### 저에 대해 소개합니다.
 
-<h1>'Infinite Challenger'</h1>
+<h1>🚀 'Infinite Challenger'</h1>
 <p>끊임없이 도전합니다.</p>
 
 새로운 것에 대한 호기심이 엄청나며, 진취적인 자세로 배우는 것에 대한 두려움, 망설임이 전혀 없습니다! 모든 일에 성실히 임하기 위해 노력하고 있습니다. <br>
 
-##### 사진찍기가 취미인데 구경 하러 오세요! <a href="https://instagram.com/he0nil" target='_blank'>인스타그램</a>
+##### 📸 사진찍기가 취미인데 구경 하러 오세요! <a href="https://instagram.com/he0nil" target='_blank'>인스타그램</a>
 
 개발 이외에도 끊임없이 자기개발을 하고 있습니다. 최근에 ~~(개발 말고!)~~ 가장 많이 관심을 가지고 있는 분야는 일본어입니다. 어디다 떨어뜨려 놓아도 살 수 있게끔, 개인 능력 향상에도 몰두하고 있습니다, 항상 Creative 한 사람이 되기 위해 노력하고 있습니다.
 
