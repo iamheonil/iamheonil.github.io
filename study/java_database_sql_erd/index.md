@@ -19,13 +19,12 @@ order: 52
 
 - Entity : 개체, 테이블
 - Relation : 관계, 테이블간의 관계(PK - FK)
-- ㅇ
 
 <br>
 
 무료 ERD 웹 툴
 
 - [AQueryTool]([https://aquerytool.com/)
-
+- 
 
 <br><br>
