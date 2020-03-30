@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Heonil Kim
+date: 2020-03-31
 permalink: /about/
 ---
 
