@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database ERD'
 subtitle: ''
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
@@ -12,7 +13,7 @@ order: 52
 
 ---
 
- 
+
 > ERD, Entity Relationship Diagram
 
 <br>

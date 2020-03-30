@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database Commit & Rollback'
 subtitle: ''
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

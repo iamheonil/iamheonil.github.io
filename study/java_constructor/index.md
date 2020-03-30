@@ -3,6 +3,7 @@
 layout: post
 comments : true
 title: '생성자, Constructor에 대하여'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

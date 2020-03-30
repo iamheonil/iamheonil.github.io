@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database Delete'
 subtitle: '테이블의 행을 삭제할 때 사용하는 DELETE'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

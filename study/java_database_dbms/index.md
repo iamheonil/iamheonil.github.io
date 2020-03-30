@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'DBMS'
 subtitle: 'Database Management System'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

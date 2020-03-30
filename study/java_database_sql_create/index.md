@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database Create'
 subtitle: 'DDL의 구문들중 CREATE & DROP'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

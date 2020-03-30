@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: '데이터베이스'
 subtitle: 'Database'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
@@ -36,6 +37,5 @@ order: 35
 - Standard Edition 도 DB가 한 개만 존재한다.
 - SID : orcl(DB이름)
 - Enterprise Edition 은 DB를 여러 개 생성할 수 있음.
-
 
 <br><br>
