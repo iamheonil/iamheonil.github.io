@@ -3,6 +3,7 @@
 layout: post
 comments : true
 title: '클래스다이어그램의 기본'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

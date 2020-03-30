@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: '자바의 기초'
 subtitle: 'UI/UX Engineering 과정을 이수하며'
+date: 2020-03-31
 study: true
 text: true
 type: 'Java'
