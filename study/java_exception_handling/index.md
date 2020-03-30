@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: '예외 처리 구문'
 subtitle: 'Exception Handling'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

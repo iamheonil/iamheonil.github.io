@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database Table'
 subtitle: '데이터베이스의 기본, 테이블'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

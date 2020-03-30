@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: '자바의 File'
 subtitle: '파일 I/O'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

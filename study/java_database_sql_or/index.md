@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database OR'
 subtitle: 'OR 연산자(||)'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
@@ -12,7 +13,7 @@ order: 43
 
 ---
 
- 
+
 > 데이터 연결 연산자, || (OR)
 
 <br>

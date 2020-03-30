@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database Functions'
 subtitle: '오라클 내장 함수에 대하여'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
@@ -12,7 +13,7 @@ order: 44
 
 ---
 
- 
+
 > 오라클 내장 함수, SQL Functions
 
 <br>

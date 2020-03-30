@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database ROWNUMBER'
 subtitle: '조회되는 결과에 행 번호를 붙이는 키워드인 ROWNUM'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
@@ -12,7 +13,7 @@ order: 49
 
 ---
 
- 
+
 > rownum
 
 <br>

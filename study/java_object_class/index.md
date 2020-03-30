@@ -3,6 +3,7 @@
 layout: post
 comments : true
 title: '오브젝트 클래스'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
@@ -19,7 +20,7 @@ Object 클래스
     + 자바의 모든 클래스의 최상위 부모 클래스
     + 모든 클래스는 Object를 상속받고 있다.
     + 자바 프로그래밍의 기본이 되는 클래스.
- 
+
 Object 클래스의 메소드
 - 재정의(Override) 불가능 메소드
     + 스레드 동기화에 사용 ↓ 
@@ -66,4 +67,5 @@ Object 클래스의 메소드
 	+ 사용방법 <br>
 	System.out.println(cos(30.0));
 			
+
 <br><br>

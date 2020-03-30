@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database Group Function'
 subtitle: '오라클의 그룹함수'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
@@ -12,7 +13,7 @@ order: 46
 
 ---
 
- 
+
 > 그룹 함수, Group Function
 
 <br>

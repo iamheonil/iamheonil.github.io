@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: '멀티스레드'
 subtitle: 'Multi - Thread'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

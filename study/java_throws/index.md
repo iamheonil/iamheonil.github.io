@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: '자바의 Throws'
 subtitle: '예외 떠넘기기, 예외 미루기'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

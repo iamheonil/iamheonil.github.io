@@ -3,6 +3,7 @@
 layout: post
 comments : true
 title: 'String, 문자열'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

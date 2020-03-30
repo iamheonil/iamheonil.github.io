@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: '스트림의 종류'
 subtitle:
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

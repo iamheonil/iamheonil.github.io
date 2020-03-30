@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database Union'
 subtitle: '데이터베이스 집합 연산자'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
@@ -12,7 +13,7 @@ order: 51
 
 ---
 
- 
+
 > 집합 연산자
 
 <br>

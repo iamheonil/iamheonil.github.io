@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database Join'
 subtitle: 'Join의 정의와 상식'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
@@ -12,7 +13,7 @@ order: 46
 
 ---
 
- 
+
 > 조인, JOIN
 
 <br>

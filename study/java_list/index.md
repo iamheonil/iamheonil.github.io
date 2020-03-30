@@ -3,6 +3,7 @@
 layout: post
 comments : true
 title: 'List 기초'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

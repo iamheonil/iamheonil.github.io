@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Oracle to_number & 단일 행 함수들'
 subtitle: '오라클 형변환 to_number()과 기타 단일 행 함수들'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
@@ -12,7 +13,7 @@ order: 45
 
 ---
 
- 
+
 > to_number
 
 <br>

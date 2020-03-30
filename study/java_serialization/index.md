@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: '직렬화'
 subtitle: 'Serialization'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

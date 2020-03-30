@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database Insert'
 subtitle: 'DML 문법 중 하나인 INSERT'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: 'Database Update'
 subtitle: '테이블의 행을 수정하는 구문인 UPDATE'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

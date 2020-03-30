@@ -4,6 +4,7 @@ layout: post
 comments : true
 title: '네트워크와 프로토콜'
 subtitle:
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'

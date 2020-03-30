@@ -3,6 +3,7 @@
 layout: post
 comments : true
 title: '서식을 지정하여 출력하는 방법'
+date: 2020-03-31
 study: true
 text: true
 author: 'Kim Heonil'
