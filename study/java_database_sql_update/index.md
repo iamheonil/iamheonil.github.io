@@ -2,8 +2,8 @@
 
 layout: post
 comments : true
-title: 'Database ERD'
-subtitle: ''
+title: 'Database Update'
+subtitle: '테이블의 행을 수정하는 구문인 UPDATE'
 study: true
 text: true
 author: 'Kim Heonil'

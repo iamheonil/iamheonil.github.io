@@ -24,7 +24,7 @@ order: 52
 
 무료 ERD 웹 툴
 
-- [AQueryTool]([https://aquerytool.com/)
+- [AQueryTool](https://aquerytool.com/)
 - 
 
 <br><br>

@@ -18,7 +18,7 @@ order: 58
 
 - 데이터를 처리하는 일련의 작업 단위
 - 클라이언트마다 관리되는 데이터베이스에 작업한 내역들을 트랜잭션이라고 한다.
-- COMMIT, ROLLBACK 에 의해서 작업한 내역들을 반영하거나 되돌린다. [Commit & Rollback 이란?](https://naver.com)
+- COMMIT, ROLLBACK 에 의해서 작업한 내역들을 반영하거나 되돌린다. [Commit & Rollback 이란?](https://iamheonil.github.io/study/java_database_sql_commit_rollback/)
 
 <br>
 
