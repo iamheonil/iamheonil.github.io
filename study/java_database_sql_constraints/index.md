@@ -18,7 +18,7 @@ order: 62
 <br>
 
 - 테이블에 부적절한 데이터가 입력되는 것을 방지하는 목적으로 테이블 컬럼에 설정하는 필터 조건
-- 데이터의 무결성(Integrity)을 유지한다. [데이터 무결성이란?]([https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%AC%B4%EA%B2%B0%EC%84%B1](https://ko.wikipedia.org/wiki/데이터_무결성)), 프로그램이 생명주기(Life Cycle)를 거치는 동안 데이터가 정확하고 일관성있는 값을 유지하고 그 값이 보장되는 성격
+- 데이터의 무결성(Integrity)을 유지한다. [데이터 무결성이란?](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EB%AC%B4%EA%B2%B0%EC%84%B1), 프로그램이 생명주기(Life Cycle)를 거치는 동안 데이터가 정확하고 일관성있는 값을 유지하고 그 값이 보장되는 성격
 
 <br>
 
