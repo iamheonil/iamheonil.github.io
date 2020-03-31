@@ -5,6 +5,7 @@ comments : true
 title: 'Database 식별관계, 비식별관계'
 subtitle: '식별관계와 비식별관계에 대하여'
 date: 2020-04-01
+comments: true
 study: true
 text: true
 author: 'Kim Heonil'

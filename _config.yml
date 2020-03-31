@@ -33,6 +33,8 @@ markdown: kramdown
 #themeColor: purple # green, blue, orange, purple, grey
 fixedNav: 'true' # true or false
 
+disqus_shortname: iamheonil
+
 permalink: /:year/:month/:title
 markdown: kramdown
 include: [_pages]
