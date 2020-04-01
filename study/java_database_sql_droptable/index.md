@@ -40,7 +40,7 @@ TRUNCATE 와 DELETE의 차이점
 ``` sql
 
 --	TRUNCATE							DELETE
---	DDL									DML
+--	DDL								DML
 --	데이터가 차지하던 물리적 공간 삭제		   데이터가 차지하던 공간을 빈 공간으로 만듬.
 --	(용량이 줄어든다)					    (용량이 유지된다)
 
