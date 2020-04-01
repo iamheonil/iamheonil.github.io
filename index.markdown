@@ -5,9 +5,9 @@ title: Welcome !
 ---
 
 ## I'm Heonil Kim,
-### I hope Programmer! <br>
+## I hope Programmer! <br>
 
-### 메인 초본
+### 현재 열공중인 김헌일입니다.
 
 <br>
 <br>
