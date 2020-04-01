@@ -35,6 +35,7 @@ order: 65
 <br>
 
 TRUNCATE 와 DELETE의 차이점
+<br>
 
 ``` sql
 
