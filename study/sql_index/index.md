@@ -67,14 +67,38 @@ order: 66
 
 <br>
 
-인덱스 종류
+인덱스 종류와 생성구문
 
 - NON - Unique INDEX
   - 중복을 허용하는 인덱스
+  - CREATE INDEX 인덱스명 ON 테이블명(컬럼명);
 - Unique INDEX
   - 중복을 허용하지 않는 인덱스
+  - CREATE UNIQUE INDEX 인덱스명 ON 테이블명(컬럼명);
 - Composite INDEX
   - 복합 컬럼 인덱스
+  - CREATE [UNIQUE] INDEX 인덱스명 ON 테이블명(컬럼명);
+
+<br>
+
+인덱스 재생성 구문
+
+- ALTER INDEX 인덱스명 REBUILD;
+- INSERT, UPDATE, DELETE 가 많이 발생한 테이블은 기존에 만들어져있는 인덱스와 데이터가 달라지게 된다.
+- 인덱스의 효과가 떨어지게 된다
+
+<br>
+
+인덱스 삭제 구문
+
+- DROP INDEX 인덱스명;
+
+<br>
+
+인덱스 자료사전
+
+- USER_INDEXES : 인덱스 정보 자료사전
+- USER_IND_COLUMNS : 인덱싱 컬럼 정보 자료사전
 
 
 <br><br>
