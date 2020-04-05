@@ -37,7 +37,7 @@ order: 58
 Auto Commit (자동 반영) 상황
 
 - DDL, DCL 완료되는 시점
-- SQLPlus 의 정상 종료(Exit 명령 수행)ㅇㅇ
+- SQLPlus 의 정상 종료(Exit 명령 수행)
 
 <br>
 
