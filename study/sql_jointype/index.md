@@ -2,8 +2,8 @@
 
 layout: post
 comments : true
-title: 'Database EquiJoin'
-subtitle: '오라클의 조인 중 하나인 EquiJoin(이퀴조인, 등가조인)'
+title: 'Database Join'
+subtitle: '오라클 조인의 종류'
 date: 2020-03-31
 study: true
 text: true
