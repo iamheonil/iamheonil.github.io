@@ -40,9 +40,19 @@ order: 77
 
 Tag란?
 
-- '<tag>' 와 '</tag>'로 구성되어 있다.
+``` html
+<tag>' 와 '</tag>'로 구성되어 있다.
+```
+<br>
+
 - [w3schools.com / 참고하기 좋은 사이트](https://www.w3schools.com/)
-- <html>, <head>, <body> 위 코드는 반드시 포함 되어 있어야한다.
+
+<br>
+
+```html
+<html>, <head>, <body> 위 코드는 반드시 포함 되어 있어야한다.
+    
+```
 
 <br>
 
