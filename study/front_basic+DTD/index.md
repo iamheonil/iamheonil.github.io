@@ -2,8 +2,8 @@
 
 layout: post
 comments : true
-title: 'Front-End 기초'
-subtitle: ''
+title: 'Front-End 기초와 DTD'
+subtitle: 'DTD(Document Type Definition)'
 date: 2020-04-09
 comments: true
 study: true
@@ -78,4 +78,27 @@ Tag란?
 - body 태그 : 화면에 보여질 내용을 작성하는 곳
 
 <br>
+
+> DTD, Document Type Definition
+
 <br>
+
+- DOCTYPE
+- 문서 유형 정의
+- 브라우저에게 해당 문서가 어떤 유형의 문법을 적용해서 작성되었는지 알리는 문장
+- 버전에 맞게 유효성검사(문법 검사)를 할 수 있게 된다.
+- 브라우저가 DTD를 확인하고 문서를 확인하는 방법을 결정한다.
+
+<br>
+
+- HTML 5
+- XML(eXtensible Markup Language) - 가끔씩 사용할 예정
+  - DTD를 적용하면 문법이 적용된다.
+- XHTML
+  - XHTML 1.0
+  - XHTML 1.1 
+  - 나는 사용하지 않는다.
+
+
+
+<br><br>
