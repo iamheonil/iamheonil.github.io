@@ -31,19 +31,21 @@ order: 79
 <br>
 
 ``` html
+
 <!--
 
-		웹 클라이언트											웹 서버
-		(브라우저)											(Apache Tomcat)
-								Internet / Network
-		1. URL 요청			----Request->		 2. 요청 받기
-																		3. 요청 처리(요청에 적절한 작업 수행)
-		5. 응답 받기		<----Response-		4. 요청에 맞는 응답 생성(주로 HTML)
-		6. 응답 데이터 처리(화면에 출력하거나, 다운로드 받거나 등등)
+웹 클라이언트						   웹 서버
+(브라우저)						    (Apache Tomcat)
+            Internet / Network
+1. URL 요청   ----Request->       2. 요청 받기
+				                 3. 요청 처리(요청에 적절한 작업 수행)
+5. 응답 받기    <----Response-	  4. 요청에 맞는 응답 생성(주로 HTML)
+6. 응답 데이터 처리(화면에 출력하거나, 다운로드 받거나 등등)
 
 Request 메세지, Response 메세지는 각각 HEADER 영역과 BODY 영역으로 구성되어있다.
 HEADER 에는 설정 정보와 같은것들이 들어가 있다.
 -->
+
 ```
 
 <br>
