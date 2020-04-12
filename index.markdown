@@ -5,9 +5,9 @@ title: Welcome !
 ---
 
 ## I'm Heonil Kim,
-## I hope Programmer! <br>
+## I hope Developer <br>
 
-### 현재 열공중인 김헌일입니다.
+### 현재 열공중인 <u>김헌일</u>입니다.
 
 <br>
 <br>
@@ -20,9 +20,6 @@ title: Welcome !
 
 ------
 
-#### 빈칸2
-
-------
 
 #### [작업 프로젝트 보러가기 >](https://iamheonil.github.io/project/)
 
