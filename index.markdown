@@ -2,6 +2,7 @@
 layout: page
 date: 2020-03-31
 title: Welcome !
+subtitle: '이 블로그는 PC에 최적화 되어있습니다.'
 ---
 
 ## I'm Heonil Kim,
