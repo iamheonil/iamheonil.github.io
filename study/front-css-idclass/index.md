@@ -245,7 +245,9 @@ p + p {
 <br>
 
 ``` css
-/* 예제가 너무 길어서 KHFrontend repository Selector/Selector07,08 참고하기
+
+/* 예제가 너무 길어서 KHFrontend repository Selector/Selector07,08 참고하기 */
+
 ```
 
 <br>
