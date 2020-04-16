@@ -16,7 +16,7 @@
 
 title: Blog
 email: iamheonil@gmail.com
-description: 스프링 프레임워크 공부해서 백엔드 개발자가 되고 싶은 니리니리 블로그 # this means to ignore newlines until "baseurl:"
+description: 백엔드 개발자가 되고 싶은 니리니리 블로그 # this means to ignore newlines until "baseurl:"
 # baseurl: "https://iamheonil.github.io" # the subpath of your site, e.g. /blog
 url: "https://iamheonil.github.io" # the base hostname & protocol for your site
 

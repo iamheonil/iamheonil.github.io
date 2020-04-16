@@ -17,7 +17,8 @@ subtitle: '이 블로그는 PC에 최적화 되어있습니다.'
 
 ------
 
-#### 빈칸
+#### 2020.01 - 2020.09 <br>
+##### UI/UX Engineering & Software Engineering Course
 
 ------
 
@@ -25,10 +26,4 @@ subtitle: '이 블로그는 PC에 최적화 되어있습니다.'
 #### [작업 프로젝트 보러가기 >](https://iamheonil.github.io/project/)
 
 <br><br>
-
-### ⌨️ 사용가능 언어
-
-##### Java, 
-
-
 
