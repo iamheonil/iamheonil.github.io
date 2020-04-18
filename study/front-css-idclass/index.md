@@ -239,25 +239,25 @@ p + p {
     3. 가상 요소 선택자
        - ::before : 태그 요소의 앞에 가상요소 추가
        - ::after : 태그 요소의 뒤에 가상요소 추가
-       - ::first-line
-       - ::first-letter
+       - ::first-line : 내용의 맨 첫번째줄에 스타일을 적용해준다.
+       - ::first-letter : 내용의 맨 첫번째줄의 첫번째 글자에 스타일을 적용해준다
 
 <br>
 
 ``` css
-
-/* 예제가 너무 길어서 KHFrontend repository Selector/Selector07,08 참고하기 */
-
+/* 예제가 너무 길어서 KHFrontend repository Selector/Selector07,08 참고하기
 ```
 
 <br>
 
 - 부정 선택자
+  - :not(s) - 조건 S를 만족하지 않는 요소 (S는 Selector를 이용하여 작성한다.)
 
 <br>
 
 ``` css
-* {
+:not(ul) {
+  /* UL 태그가 아닌 요소 */
 
 }
 ```
