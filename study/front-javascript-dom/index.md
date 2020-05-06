@@ -70,5 +70,101 @@ order: 105
   - 방법 3.
 
     - 일반 함수로 document 객체를 사용하고 해당 함수를 태그요소의 이벤트리스너로 사용(등록)하기
+    
+<br>
+<br>
+> DOM 객체 함수, DOM API
+
+<br>
+
+ + Node 생성
+    + document.createElement("tagName") 요소노드 만들기
+       + HTML 표준태그가 아니어도 생성됨
+   + document.createTextNode("text") 텍스트노드 만들기
+
+<br>
+
+ + Node 추가
+
+     + DOM객체.appendChild(대상객체)
+         + DOM객체에 대상객체를 연결한다(자식으로 추가한다)
+         + ex) var pTag = document.createElement("p") //p태그요소 생성
+         + document.body.appendChild(pTag) //<body>에 p요소 추가
+   + document.body 와 body 태그는 똑같다
+     + ex) var div = document.createElement("div") //div요소 생성
+     + var t = document.createTextNode("Hello") //텍스트 생성
+
+<br>
+
+```javascript
+div.appendChild(t) //<div>에 텍스트 추가하기
+document.body.appendChild(div) //<body>에 <div>추가
+
+// document.body에 추가해야 화면에서 보임
+```
+
+<br>
+
+
+ + Element 속성(Attribute) 값 다루기
+
+
+     + 표준속성의 값 가져오기 (객체.표준속성)
+     + 표준속성의 값 설정하기 (객체.표준속성 = "속성값")
+
+         + ex)document.getElementById("myImg").height = 300;
+         + 일반속성의 값 불러오기
+           객체.getAttribute("속성명")
+         + 일반속성의 값 설정하기
+           객체.setAttribute("속성명", "속성값")
+         + getAttribute(), setAttribute() 는 표준, 비표준 속성 모두 다룰 수 있다
+         + 속성의 값은 모두 String 타입으로 정의된다
+
+<br>
+
+ + innerHTML 속성
+     + 객체.innerHTML
+     + 객체.innerHTML = "HTML양식의 문장", 객체의 자식요소가 HTML문장으로 처리된다
+
+<br>
+
+
+ + innerText 속성
+
+     + 객체.innerText
+     + 객체.innerText = "텍스트 문장", 객체의 자식요소가 텍스트문장으로 처리된다
+
+<br>
+
+- 내용물을 불러올 때
+  - innerHTML - 태그까지 포함하여 꺼내온다
+  - innerText - 태그를 제거하고 꺼내온다
+
+* 내용물을 적용할 때
+  * innerHTML - 태그를 반영하여 적용한다
+  * innerText - 태그를 단순 텍스트로 적용한다 (태그가 적용되지않음)
+
+<br>
+
+ + Element 객체 얻기 (DOM 객체 얻기)
+
+     + document.getElementById("ID속성값"); - 지정된 id를 가진 요소를 반환
+     + document.getElementsByName("NAME속성값"); - 지정된 name을 가진 요소들을 반환
+     + document.getElementsByTagName("TAG이름"); - 지정된 태그들을 반환
+         + id는 HTML문서에서 유일한 값 -> getElementById 가 객체 한개만 반환
+         + name속성값이나 태그이름은 중복가능 -> 객체 여러 개 반환 (배열)
+         + getElementsByName, getElementsByTagName 은 선택된 요소가 1개여도 배열로 반환한다
+         + Element, Elements 로 s가 붙어있는지 없는지 잘 확인하고 사용할 것!
+
+<br>
+
+ + Element 제거
+
+     + 객체.remove() - 객체를 DOM트리에서 제거한다
+     + 객체.removeChild(대상) - 객체의 자식노드에서 대상노드를 제거한다
++ 둘 다 화면에서 제거된다
+
+<br>
+
 
 <br><br>
