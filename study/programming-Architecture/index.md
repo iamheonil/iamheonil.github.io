@@ -2,7 +2,7 @@
 
 layout: post
 comments : true
-title: '프로그래밍 아키텍쳐, Architecture?'
+title: '프로그래밍 아키텍쳐, Architecture'
 subtitle: ''
 date: 2020-05-18
 comments: true
