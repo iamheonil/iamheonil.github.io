@@ -140,5 +140,37 @@ order: 135
     ${변수 }
     &lt;/c:forTokens>
     - items 의 문자열을 delims로 split하여 결과를 순서대로 var에 지정한 변수에 담아 반복하는 태그
+    
+- import 자원 삽입
+
+  - &lt;c:import url="삽입할 페이지"/>
+
+  - &lt;c:import url="삽입할 페이지"/>
+    &lt;c:param name="키" value="값" />
+
+    &lt;/c:import url="삽입할 페이지"/>
+
+  - &lt;jsp:include> 와 같은 기능이다.
+
+  - 파라미터 전달할 수 있다.
+
+- redirect 페이지 이동
+
+  - &lt;c:redirect url="리다이렉트 페이지" />
+  - &lt;c:redirect url="리다이렉트 페이지" />
+    &lt;c:param name="키" value="값">
+    &lt;/c:redirect>
+  - 자바스크립트를 이용한 location.href 와 같은 결과를 보인다.
+  - location.href 는 클라이언트에서 동작하는 것이고 redirect 는 서버에서 동작한다.
+  - 우선 나는 JSP 에서 곧바로 리다이렉트 하는 일은 없을 거 같다.
+
+- catch 예외처리
+
+  - &lt;c:catch var="변수">
+
+    // 예외발생 코드
+    &lt;/c:catch>
+
+  - 
 
 <br><br>
