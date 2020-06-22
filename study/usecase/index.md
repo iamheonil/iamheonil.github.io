@@ -65,7 +65,7 @@ order: 148
 
 <br>
 
-### UML, Unified Model Language
+### UML, Unified Modeling Language
 
 - 소프트웨어 공학에서 사용되는 표준화된 범용 모델링 언어
 - 소프트웨어의 개념적은 부분을 다이어그램으로 그리기 위해 사용된다
