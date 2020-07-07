@@ -57,7 +57,7 @@ order: 150
 <br>
 
 - 마이바티스 기본 세팅
-  - 라이브 러리 설치
+  - 라이브러리 설치
     - mybatis-x.x.x.jar
     - ojdbcX.jar
 - 마이바티스 설정파일 작성(XML 파일)
