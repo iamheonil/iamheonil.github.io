@@ -11,10 +11,12 @@ permalink: /project/
 
 <br>
 ---
+
 #### ActiveWare
 
 ### MVC (Model2) 패턴으로 개발한 웹 기반 그룹웨어
 <a href="https://github.com/iamheonil/KHSemiProject" target="_blank">깃허브 리포지토리</a>
+
 ---
 <br>
 
