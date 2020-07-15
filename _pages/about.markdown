@@ -40,7 +40,7 @@ permalink: /about/
 <br>
 
 <h3>Web Programming</h3>
-<p><h4>HTML5, CSS, JAVASCRIPT, Java(Spring Framework) </h4></p>
+<p><h4>HTML5, CSS, JAVASCRIPT, jQuery, Java(Spring Framework), MyBatis</h4></p>
 
 <br>
 
