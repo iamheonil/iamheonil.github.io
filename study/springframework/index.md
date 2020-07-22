@@ -2,7 +2,7 @@
 
 layout: post
 comments : true
-title: '[Spring] Java 스프링 프레임워크 이클립스 설치방법'
+title: '[Spring] Java 스프링 프레임워크와 이클립스 플러그인 설치방법'
 subtitle: ''
 date: 2020-07-18
 comments: true
@@ -17,7 +17,12 @@ order: 158
 
 <br>
 
+- 스프링의 특징
 - 자바를 이용한 프로그램 개발 프레임워크
+    - DI (Dependency Injection), 의존성 주입
+    - Spring AOP (Aspect Oriented Programming), 관점 지향 프로그래밍
+    - POJO, Plain Old Java Object
+    - IOC (Inversion Of Control), 제어의 반전
 - <a href="https://spring.io/" target="_blank">스프링 홈페이지</a>
 
 <br>
