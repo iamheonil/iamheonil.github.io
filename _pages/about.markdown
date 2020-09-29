@@ -5,46 +5,51 @@ date: 2020-03-31
 permalink: /about/
 ---
 
-#### 김헌일 🧑‍💻 <br>
+#### 김헌일 🧑‍💻
 
-소프트웨어공학을 전공하였으며, 현재 UI/UX 엔지니어링/Java Spring Framework 개발자 과정을 이수 중입니다. 자바의 기초부터 DBMS(Oracle), 웹 프론트엔드 등 전반적인 웹 개발의 모든 것들을 배우고 있습니다. (2020/01/28 ~ 2020/09/22)
-
-<br>
+-   소프트웨어공학 전공 (2014.03 ~ 2020.02)
+-   일본 오사카 워킹홀리데이 (2018.12 ~ 2019.05)
+-   KH정보교육원 \[NCS\]UIUX엔지니어링 및 응용SW엔지니어링 양성과정 (2020.01 ~ 2020.09)
 
 ### 저에 대해 소개합니다.
 
-<h1>🚀 'Infinite Challenger'</h1>
-<p>끊임없이 도전합니다.</p>
+# 🚀 'Infinite Challenger'
 
-새로운 것에 대한 호기심이 많으며, 항상 진취적인 자세로 배우는 것에 대한 두려움, 망설임 없이 모든 일에 성실히 임하기 위해 노력하고 있습니다. <br>
+끊임없이 도전합니다.
 
-##### 📸 사진촬영, 보정이 취미입니다! <a href="https://instagram.com/he0nil" target='_blank'>인스타그램</a>
+새로운 것에 대한 호기심이 많으며, 항상 진취적인 자세로 배우는 것에 대한 두려움, 망설임 없이 모든 일에 성실히 임하기 위해 노력하고 있습니다.
 
-개발 이외에도 끊임없이 자기개발을 하고 있습니다. 최근에 ~~(개발 말고)~~ 가장 많이 관심을 가지고 있는 분야는 일본어입니다. 어디다 떨어뜨려 놓아도 살 수 있게끔, 개인 능력 향상에도 몰두하고 있습니다, 항상 Creative 한 사람이 되기 위해 노력하고 있습니다.
+##### 📸 사진촬영, 보정이 취미입니다! [인스타그램](https://instagram.com/he0nil)
 
-<br>
+개발 이외에도 끊임없이 자기개발을 하고 있습니다. 최근에
 
-<p>2018년 12월 - 2019년 5월 까지 일본 오사카에서 워킹홀리데이 비자로 체류 하였습니다. </p>
+~(개발 말고)~
 
-군대 전역 후 떠난 첫 해외(일본) 여행, 첫 여행에 너무 감명받아, 한국으로 돌아와 대학 공부와 일본어 공부를 병행하며 일본 워킹홀리데이를 준비했으며 서류 전형과 전화인터뷰를 통과한 후 비자를 발급받아 일본으로 떠났습니다.
+가장 많이 관심을 가지고 있는 분야는 일본어입니다. 어디다 떨어뜨려 놓아도 살 수 있게끔, 개인 능력 향상에도 몰두하고 있습니다, 또한 Creative 한 사람이 되기 위해 노력하고 있습니다.
 
-<br>
+### 다룰 수 있는 프로그래밍 언어 및 Tools & Business tool
 
-### 다룰 수 있는 프로그래밍 언어와 그 외
-<br>
+### Web Programming
 
-<h3>공통</h3>
+#### HTML5, CSS, JAVASCRIPT, jQuery, JSP, Java(Spring Framework), MyBatis
 
-> JLPT: N2(목표)
+### DataBase(DBMS)
 
-<br>
+#### Oracle, MySQL
 
-<h3>Web Programming</h3>
-<p><h4>HTML5, CSS, JAVASCRIPT, jQuery, Java(Spring Framework), MyBatis</h4></p>
+### Tools & Business tool
 
-<br>
+#### Eclipse, IntelliJ, SQL Developer, DataGrip, Mac Terminal, Brackets, PuTTY, JIRA, JANDI, Github Desktop,
 
-<h3>DataBase(DBMS)</h3>
-<p><h4>Oracle, Mysql</h4></p>
+### 흥미를 가지고 있는 것들
 
-<br><br>
+### 외국어
+
+> 영어  
+> 일본어 : JLPT N2(목표)
+
+### 프로그래밍
+
+> PHP, Algorithm
+
+### [PortFolio](https://drive.google.com/file/d/1HS88PZySIV8FAyEf7IebeK-CliQaoJ5Y/view?usp=sharing)
