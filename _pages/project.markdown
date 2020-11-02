@@ -20,6 +20,14 @@ permalink: /project/
 
 ---
 
+#### 슬기로운 과외생활
+
+### SpringFramework 기반 웹 프로젝트
+
+##### <a href="https://github.com/iamheonil/KHFinalProject" target="_blank">깃허브 리포지토리</a>
+
+---
+
 <br>
 
 <br><br><br><br><br>
