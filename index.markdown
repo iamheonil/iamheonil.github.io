@@ -5,8 +5,8 @@ title: Welcome to My Blog !
 subtitle: '이 블로그는 PC에 최적화 되어있습니다.'
 ---
 
-## I'm Heonil Kim,
-## I hope Backend Developer! 👨‍💻 <br>
+## Hi! i am HEONIL 👨‍💻
+## 🚀 Infinite Challenger <br>
 
 <br>
 <br>
