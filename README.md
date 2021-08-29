@@ -3,8 +3,8 @@
 
 <br>
 
-> 포트폴리오 + 블로그
+> 블로그
 
-자기소개 글과 진행했던 프로젝트들을 올려놓았습니다.
+공부할 때 쓴 블로그인데 ㅎㅎㅎㅎ 어쩌다보니 이전을 했습니다!
 
-<a href="https://iamheonil.github.io/" target="_blank">블로그 바로가기</a>
+<a href="https://heonil.tistory.com" target="_blank">놀러오세요!</a>
