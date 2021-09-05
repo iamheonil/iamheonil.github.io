@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 👋 안녕하세요! [블로그는 티스토리로 옴겼습니다. 놀러오세요!](https://heonil.tistory.com) <br>
+#### 👋 안녕하세요! [블로그는 티스토리로 옴겼습니다.](https://heonil.tistory.com) <br>
 
 <br>
 <br>
