@@ -4,9 +4,6 @@ date: 2020-03-31
 title: Welcome to My Blog !
 subtitle: '이 블로그는 PC에 최적화 되어있습니다.'
 ---
-<br>
-<br>
-<br>
 
 열정과 패기가 가득한 개발자 김헌일입니다!
 
