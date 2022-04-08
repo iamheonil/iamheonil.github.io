@@ -8,11 +8,9 @@ subtitle: '이 블로그는 PC에 최적화 되어있습니다.'
 <br>
 <br>
 
-# Infinite Challenger
-
 열정과 패기가 가득한 개발자 김헌일입니다!
 
-![Infinite%20C%20c2f36/28698595.jpg](Infinite%20C%20c2f36/28698595.jpg)
+![Infinite%20C%20c2f36/28698595.jpg](https://github.com/iamheonil/iamheonil.github.io/blob/master/image/avatar.jpg?raw=true)
 
 ## Contact
 
