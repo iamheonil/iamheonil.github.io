@@ -1,5 +1,5 @@
 # Site settings
-title: Kim HeonIl
+title: Kim Heonil
 description: 'Heonil Resume'
 url: 'https://heonil.tistory.com'
 baseurl: ''
@@ -9,7 +9,7 @@ bkimage: '/images/bk1.jpg'
 #font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Kim HeonIl'
+  name: 'Kim Heonil'
   email: iamheonil@gmail.com
   #twitter_username: thomzuehlke
   facebook_username: heonil
