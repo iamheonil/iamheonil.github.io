@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/heonil.png'
 bkimage: '/images/4NB4.gif'
 #google_analytics: UA-XXXXXX-X
-#font_awesome: 'XXXXXXXXXX.js'
+font_awesome: 'XXXXXXXXXX.js'
 
 author:
   name: 'Kim Heonil'
