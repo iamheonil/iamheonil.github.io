@@ -4,9 +4,9 @@
   repo: iamheonil.github.io
   img: https://user-images.githubusercontent.com/32843441/147861707-a0c412ab-93d6-4fd2-86f4-2ef2b2722c47.png
 
-- name: Keycloak Dockerfile with SSH
-  gh_user: tzuehlke
-  repo: keycloakssh
+- name: 슬기로운 과외생활
+  gh_user: iamheonil
+  repo: KHFinalProject
   img: https://user-images.githubusercontent.com/32843441/147859397-a1dbc63b-c58f-4536-ae8a-d51e17aa08ce.png
 
 - name: Monopoly Money Manager
