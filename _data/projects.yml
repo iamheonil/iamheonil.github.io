@@ -1,7 +1,7 @@
 # projects section data
-- name: Long running Azure Functions on Consumption Plan
-  gh_user: tzuehlke
-  repo: AzureFunction-TimeoutCheck
+- name: Blogs
+  gh_user: iamheonil
+  repo: iamheonil.github.io
   img: https://user-images.githubusercontent.com/32843441/147861707-a0c412ab-93d6-4fd2-86f4-2ef2b2722c47.png
 
 - name: Keycloak Dockerfile with SSH
