@@ -4,7 +4,8 @@ description: 'Heonil Resume'
 url: 'https://heonil.tistory.com'
 baseurl: ''
 profilepic: '/images/heonil.png'
-bkimage: '/images/4NB4.gif'
+#bkimage: '/images/4NB4.gif'
+bkimage: '/images/CZk.gif'
 #google_analytics: UA-XXXXXX-X
 font_awesome: '635adbd374.js'
 
